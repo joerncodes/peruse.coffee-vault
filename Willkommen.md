@@ -5,7 +5,7 @@ slug: /index
 template: index
 options:
   sidebar: true
-  type: list
+  type: compact
   showIndices: true
 search: /
 ---
