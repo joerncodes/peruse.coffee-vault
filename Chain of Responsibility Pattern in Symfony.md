@@ -33,7 +33,7 @@ class Mp3FiletypeHandler implements FiletypeHandlerInterface {
 }
 ```
 
-These classes now get *tagges* in `services.yaml`:
+These classes now get *tagged* in `services.yaml`:
 
 ```yaml
 services:
