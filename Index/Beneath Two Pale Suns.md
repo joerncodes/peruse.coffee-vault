@@ -1,9 +1,10 @@
 ---
 title: Beneath Two Pale Suns
 slug: /art/btps
-template: index
 options:
   nav: true
+  sidebarElements:
+  
 ---
 
 > "The **claustrophobic walls of a gigantic canyon** enclosed me on all sides, the top of the walls obscured by a suffocating mist. **The dull, sickly light of two suns barely illuminated the landscape**, and I felt a sense of all-encompassing desperation permeate every fiber of my being. Wherever I was, whatever this place might be, **it was not made for humans to walk.**"

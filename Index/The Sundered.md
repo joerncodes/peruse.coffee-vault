@@ -1,6 +1,6 @@
 ---
 title: The Sundered
-slug: /btps/sundered
+slug: /art/btps/sundered
 template: index
 options:
   nav: true
