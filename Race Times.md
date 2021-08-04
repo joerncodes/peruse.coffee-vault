@@ -5,4 +5,5 @@ template: aggregator
 options:
   nav: true
   aggregatorSeparator: true
+  aggregatorLinkToSource: true
 ---
