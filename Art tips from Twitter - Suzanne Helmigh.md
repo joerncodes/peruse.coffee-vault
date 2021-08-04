@@ -5,6 +5,7 @@ template: readwise
 options:
   inIndex: false
   book: Tweets From Suzanne Helmigh - Arttips🎨
+  readwiseSeparator: true
 ---
 
 All credit to [Suzanne Helmigh] on Twitter. 

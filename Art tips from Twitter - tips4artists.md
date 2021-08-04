@@ -5,8 +5,9 @@ template: readwise
 options:
   inIndex: false
   book: Tweets From Art Tips/Refs/Techniques!
+  readwiseSeparator: true
 ---
 
 All credit to [tips4artists] on Twitter. 
 
-[Suzanne Helmigh]: https://twitter.com/tips4artists
+[tips4artists]: https://twitter.com/tips4artists
