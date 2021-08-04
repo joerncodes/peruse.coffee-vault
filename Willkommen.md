@@ -9,8 +9,12 @@ options:
   showIndices: true
   sidebarText: 
   sidebarElements:
+    tableOfContents: true
+    sidebarImage: /im/profile
     sidebarText: >
-      Hey there, people. My name is Jörn. I'm a dad, an artist, a programmer, a RPG fan, a coffee afficionado, and a couple of descriptive nouns in a trenchcoat.  
+      # Hi there!
+      
+      My name is Jörn. I'm a dad, an artist, a programmer, a RPG fan, a coffee afficionado, and a couple of descriptive nouns in a trenchcoat. I live in Germany with my son and my beautiful wife.
         
       🐔 [@JoernDraws](https://twitter.com/joerndraws)  
       <br>
