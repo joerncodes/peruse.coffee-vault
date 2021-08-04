@@ -1,6 +1,6 @@
 ---
 title: Panïvar, the Broken Promise 
-slug: /btps/sundered/panivar
+slug: /art/btps/sundered/panivar
 ---
 
 ![](https://images.ctfassets.net/bgnjxmdltf2p/3ARpt30BTrQsgLcuvLiRN6/e73655e279ae26dc8c8a1d0b1bd38300/1_Pan_var__The_Broken_Promise.jpg?fm=jpg&w=800)

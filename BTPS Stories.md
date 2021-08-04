@@ -1,6 +1,6 @@
 ---
 title: Stories
-slug: /btps/stories
+slug: /art/btps/stories
 options:
   nav: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rajdah, the Final Solace 
-slug: /btps/sundered/rajdah
+slug: /art/btps/sundered/rajdah
 ---
 
 ![](https://images.ctfassets.net/bgnjxmdltf2p/1uVzMxJUEuTTtfAAPslMUt/4f15d041eb884f82822303d4933212eb/2-Rajdah-the-Final-Solace.jpg?fm=jpg&w=800)

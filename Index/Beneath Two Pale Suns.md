@@ -1,6 +1,6 @@
 ---
 title: Beneath Two Pale Suns
-slug: /btps
+slug: /art/btps
 template: index
 options:
   nav: true

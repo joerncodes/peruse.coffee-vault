@@ -1,6 +1,6 @@
 ---
 title: Aa, Who Speaks Words of Power 
-slug: /btps/sundered/aa
+slug: /art/btps/sundered/aa
 options:
   teaser: Aa is one of the oldest Sundered, his many reincarnations twisting him beyond anything that could be recognized as remotely human. He speaks words in a forgotten tongue that shape reality to his will.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Charis, First and Only
-slug: /btps/sundered/charis-first-and-only
+slug: /art/btps/sundered/charis-first-and-only
 ---
 
 |             |                |

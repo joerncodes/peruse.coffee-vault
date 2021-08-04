@@ -1,6 +1,6 @@
 ---
 title: Word & Color
-slug: /btps/stories/word-and-color
+slug: /art/btps/stories/word-and-color
 ---
 
 ![](https://images.ctfassets.net/bgnjxmdltf2p/qiIWyp7mnEJrVojHwdMf8/1d203f11f5c812aed48710cb3214542b/keith-hardy-214817-unsplash.jpg?fm=jpg&w=800)

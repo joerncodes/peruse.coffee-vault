@@ -1,6 +1,6 @@
 ---
 title: Charis of the Stars
-slug: /btps/sundered/charis-of-the-stars
+slug: /art/btps/sundered/charis-of-the-stars
 ---
 
 |             |              |
