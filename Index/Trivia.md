@@ -1,7 +1,7 @@
 ---
 title: Trivia
 slug: /trivia
-template: index
+template: aggregator
 options:
   sidebarElements:
     sidebarText: >
